@@ -51,6 +51,7 @@ printf("%d",ar[j]);
 printf(" "); 
 } 
 } 
+--------------------------------------------------------------------------------------------------------------------------------------
 Running Time of Algorithms 
 void insertionSort(int ar_size, int * ar,int *shifts) {  
 int temp=ar[ar_size-1],i; 
